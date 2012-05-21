@@ -1,0 +1,6 @@
+c:\users\ruwan\documents\visual studio 2010\Projects\Attrictioncomponent\Attrictionlib\bin\Debug\Attrictionlib.dll.config
+c:\users\ruwan\documents\visual studio 2010\Projects\Attrictioncomponent\Attrictionlib\bin\Debug\Attrictionlib.dll
+c:\users\ruwan\documents\visual studio 2010\Projects\Attrictioncomponent\Attrictionlib\bin\Debug\Attrictionlib.pdb
+c:\users\ruwan\documents\visual studio 2010\Projects\Attrictioncomponent\Attrictionlib\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ruwan\documents\visual studio 2010\Projects\Attrictioncomponent\Attrictionlib\obj\Debug\Attrictionlib.dll
+c:\users\ruwan\documents\visual studio 2010\Projects\Attrictioncomponent\Attrictionlib\obj\Debug\Attrictionlib.pdb
