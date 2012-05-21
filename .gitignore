@@ -1,4 +1,1 @@
-*.vo
-*.glob
-*.v.d
-
+*.class
